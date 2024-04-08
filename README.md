@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KshitizSadh
-- 👀 I’m interested in Programing,Anime,manga,gaming
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on Basic programes based on c Language
+- 👀 I’m interested in programming,Networking, cyber security and ethical hacking related projects.
+- 🌱 I’m currently learning computer science.
+- 💞️ I’m looking to collaborate on security and hacking related  projects 
 - 📫 How to reach me (contact me on Mail Via Sadhshitiz@gmail.com/ Insta Handl Kshitiz.sadh
 - 
 
