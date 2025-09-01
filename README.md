@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kshitiz sadh</h1>
-<h3 align="center">A passionate Cyber-security enthusiast/A SOC aspirant and Python geek</h3>
+<h3 align="center">A passionate Cyber-security enthusiast/A Pentestiing aspirant and Python geek</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitizsadh&label=Profile%20views&color=0e75b6&style=flat" alt="kshitizsadh" /> </p>
 
