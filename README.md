@@ -59,3 +59,58 @@ I'm a passionate cybersecurity professional specializing in penetration testing 
 - Achieves 98.7% accuracy in threat detection
 - Extracts 18+ security features for comprehensive analysis
 
+🛡️ Security | 🤖 Machine Learning | 🌐 Web Development
+
+text
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kshitizsadh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitizsadh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kshitizsadh&theme=tokyonight&hide_border=true)](https://github.com/kshitizsadh)
+
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=kshitizsadh&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/kshitizsadh)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitiz-dev-sadh)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kshitiz.sadh)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sadhshitiz)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/kshitiz-sadh)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 "Security is not a product, but a process." - Bruce Schneier
+
+**⭐ If you find my projects interesting, consider starring them!**
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
