@@ -61,7 +61,6 @@ I'm a passionate cybersecurity professional specializing in penetration testing 
 
 🛡️ Security | 🤖 Machine Learning | 🌐 Web Development
 
-text
 
 ---
 
@@ -82,13 +81,7 @@ text
 
 ---
 
-## 🏆 Achievements & Certifications
 
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=kshitizsadh&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/kshitizsadh)
-
-</div>
 
 ---
 
